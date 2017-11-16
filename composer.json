@@ -1,0 +1,21 @@
+{
+  "name": "php-http/httplug-pack",
+  "description": "A pack to install HTTP clients in a Symfony Flex application",
+  "type": "metapackage",
+  "license": "MIT",
+  "keywords": ["http", "client", "flex", "httplug"],
+  "homepage": "http://httplug.io",
+  "authors": [
+    {
+      "name": "Tobias Nyholm",
+      "email": "tobias.nyholm@gmail.com"
+    }
+  ],
+  "require": {
+    "php-http/httplug-bundle": "^1.7",
+    "php-http/curl-client": "^1.7",
+    "php-http/message": "^1.0",
+    "php-http/discovery": "^1.0",
+    "guzzlehttp/psr7": "^1.4"
+  }
+}
