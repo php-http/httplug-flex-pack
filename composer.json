@@ -1,7 +1,7 @@
 {
   "name": "php-http/httplug-pack",
   "description": "A pack to install HTTP clients in a Symfony Flex application",
-  "type": "metapackage",
+  "type": "symfony-pack",
   "license": "MIT",
   "keywords": ["http", "client", "flex", "httplug"],
   "homepage": "http://httplug.io",
