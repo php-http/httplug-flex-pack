@@ -13,9 +13,9 @@
   ],
   "require": {
     "php-http/httplug-bundle": "^1.7",
-    "php-http/curl-client": "^1.7",
+    "php-http/curl-client": "^2.0",
     "php-http/message": "^1.0",
-    "php-http/discovery": "^1.0",
+    "php-http/discovery": "^1.6",
     "guzzlehttp/psr7": "^1.4"
   }
 }
