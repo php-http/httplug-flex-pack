@@ -12,10 +12,13 @@
     }
   ],
   "require": {
-    "php-http/httplug-bundle": "^1.7",
+    "nyholm/psr7": "^1.1",
     "php-http/curl-client": "^2.0",
-    "php-http/message": "^1.0",
     "php-http/discovery": "^1.6",
-    "nyholm/psr7": "^1.1"
+    "php-http/httplug-bundle": "^1.7",
+    "php-http/message": "^1.0"
+  },
+  "config": {
+    "sort-packages": true
   }
 }
